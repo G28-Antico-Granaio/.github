@@ -1,9 +1,9 @@
 # BookEasy - Antico Granaio
 
 <img
-  src="https://i.imgur.com/cj0ixor.png"
+  src="[https://i.imgur.com/cj0ixor.png](https://github.com/G28-Antico-Granaio/.github/blob/main/Antico-Granaio.jpg)"
   alt="Logo-Antico Granaio"
-  width="256"
+  width="200"
   height="auto"
   align="right"
 />
